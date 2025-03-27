@@ -5,5 +5,5 @@
 宇宙とソフトウェアとTohji
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,react,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,rust)](https://skillicons.dev)
 
