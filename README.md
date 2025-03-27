@@ -4,5 +4,5 @@
 <p align="left">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,js,html,css,react,rust)](https://skillicons.dev)
 
